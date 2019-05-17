@@ -19,3 +19,4 @@ Create = .post, read = .get, update = .put, delete = .delete
 
 axios, fetch API, jQuerys
 
+fixing commit
